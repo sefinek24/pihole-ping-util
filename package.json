@@ -1,0 +1,11 @@
+{
+  "name": "pihole-ping-domains-util",
+  "version": "1.0.0",
+  "description": "Ping all domains form the Pi-hole host file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sefinek (https://sefinek.net)",
+  "license": "ISC"
+}

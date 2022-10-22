@@ -1,0 +1,8 @@
+## Example
+
+0.0.0.0 google.com
+0.0.0.0 sefinek.net
+0.0.0.0 github.com
+0.0.0.0 instagram.com
+
+## End
