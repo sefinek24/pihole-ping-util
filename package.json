@@ -6,6 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefinek24/pihole-ping-domains-util.git"
+  },
+  "keywords": [
+    "hostfile",
+    "hostsfile",
+    "pihole",
+    "host-file",
+    "pihole-blocklists"
+  ],
   "author": "Sefinek (https://sefinek.net)",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sefinek24/pihole-ping-domains-util/issues"
+  },
+  "homepage": "https://github.com/sefinek24/pihole-ping-domains-util#readme"
 }
