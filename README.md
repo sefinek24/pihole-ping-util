@@ -1,5 +1,5 @@
 ## 🌍 pihole-ping-domains-util
-Ping all domains form the [Pi-hole](https://pi-hole.net) host file.
+Ping all domains from the [Pi-hole](https://pi-hole.net) host file.
 
 ```
 ================================================================================================================
